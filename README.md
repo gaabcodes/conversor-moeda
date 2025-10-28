@@ -40,11 +40,11 @@
 
 # 💻 Como visualizar o projeto
 
-Acesse o link: https://gaabcodes.github.io/primeiro-form/
+Acesse o link: https://gaabcodes.github.io/conversor-moeda/
 
 ou, se preferir, clone o repositório e abra o arquivo index.html em qualquer navegador.
 
-git clone https://github.com/gaabcodes/primeiro-form.git
+git clone https://github.com/gaabcodes/primeiro-form.git <br>
 cd primeiro-form
 
 Abra o arquivo index.html diretamente no navegador.
